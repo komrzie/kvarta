@@ -6,8 +6,8 @@ header{background-color: bisque;}
 nav{width: 200px; 
 height: 150px;
 line-height: 1.5;}
-p{width: 600px;
-height: 100px;
+p{width: 1000px;
+height: 45px;
 margin-left: 150px;}
 img{width: 300px;
 float: right;
@@ -16,10 +16,10 @@ section{width: 90%;
 height: 300px;
 margin: 0 auto;
 }
-article{width: 30%;
+article{width: 40%;
 height: 200px;
 float: left;border: thin solid rgb(95, 57, 0);
-padding: 30px 5px 0px 5px ; border-radius: 10px;
+padding: 30px 5px 0px 5px ; border-radius: 30px;
 margin: 0 15px 30px 15px ;}
 
 nav li{list-style-type: none;}
