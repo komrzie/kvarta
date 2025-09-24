@@ -12,11 +12,11 @@ margin-left: 150px;}
 img{width: 300px;
 float: right;
 margin-right: 100px;}
-section{width: 90%;
-height: 300px;
+section{width: 90%; 100%
+height: 300px;500px
 margin: 0 auto;
 }
-article{width: 40%;
+article{width: 40%;50%,50%
 height: 200px;
 float: left;border: thin solid rgb(95, 57, 0);
 padding: 30px 5px 0px 5px ; border-radius: 30px;
