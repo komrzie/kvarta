@@ -1,0 +1,30 @@
+body{background-color: rgb(255, 250, 240);
+    font-family: Arial, Helvetica, sans-serif;
+   color: rgb(100, 60, 0);}
+h1{text-align: center;}
+header{background-color: bisque;}
+nav{width: 200px; 
+height: 150px;
+line-height: 1.5;}
+p{width: 1000px;
+height: 45px;
+margin-left: 150px;}
+img{
+float: right;
+margin-right: 100px;}
+section{width: 90%;
+height: 300px;
+margin: 0 auto;}
+article{width: 40%; 50%
+height: 200px;
+float:left;border: thin solid rgb(95, 57, 0);
+padding: 30px 5px 0px 5px ; border-radius: 30px;
+margin: 0 15px 30px 15px ;}
+
+nav li{list-style-type: none;}
+table{width:1000px; 
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    border-collapse: collapse;}
+th,td{height: 150px;}
